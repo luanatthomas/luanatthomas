@@ -1,13 +1,7 @@
 ### Hi there 👋
   Meu nome é Luana, tenho 22 anos e estou cursando Ciência da Computação na PUCRS.
   
-  Atualmente, sou desenvolvedora iOS no Apple Developer Academy - PUCRS. Minha jornada profissional teve início durante o curso técnico em Informática integrado ao Ensino Médio, quando realizei estágio obrigatório na empresa Madesa Móveis. Naquela época, minhas responsabilidades incluíam auxiliar usuários na utilização de sistemas, manutenção de hardware, backups e formatação de máquinas, além de trabalhar com cabeamento estruturado de rede e telefone.
-  
-  Após o estágio, fui contratada pela empresa e minhas responsabilidades foram se expandindo. Comecei a atuar como desenvolvedora, trabalhando como fullstack em tecnologias como PHP, HTML, CSS, JavaScript e banco de dados SQL. Também desenvolvi projetos de análise de dados utilizando Python.
-  
-  Em agosto de 2021, iniciei o curso de Ciência da Computação na PUCRS e integrei o grupo de Confiabilidade e Segurança de Sistemas do Programa de Pós-graduação em Ciência da Computação da Universidade. Participei de projetos voltados para a privacidade de dados do usuário, resultando na publicação do artigo "Impact of using a privacy model on smart buildings data for CO2 prediction", apresentado por mim na 37ª Conferência Anual IFIP WG 11.3 sobre Segurança e Privacidade de Dados e Aplicações (DBSec'23) em Sophia Antipolis, França, em julho de 2023.
-  
-  Encerrei minha participação no grupo de pesquisa em fevereiro de 2023, quando comecei a atuar como iOS Developer no Apple Developer Academy - PUCRS. Desde então, tenho trabalhado em projetos utilizando SwiftUI e UIKit, além de explorar conceitos de User Experience (UX) e ferramentas como Figma. Nos últimos meses, tenho utilizado frameworks da Apple, como SpriteKit, AudioKit, Combine, entre outros.
+  Atualmente, sou desenvolvedora iOS no Apple Developer Academy - PUCRS. Tenho trabalhado em projetos utilizando SwiftUI e UIKit, além de explorar conceitos de User Experience (UX) e ferramentas como Figma. Nos últimos meses, tenho utilizado frameworks da Apple, como SpriteKit, AudioKit, Combine, CoreML, CoreMotion, entre muitos outros.
 
   Se quiser saber mais sobre mim, acesse https://luanatthomas.github.io 😄
 <!--
