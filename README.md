@@ -1,7 +1,7 @@
 ### Hi there 👋
-  Meu nome é Luana, tenho 22 anos e estou cursando Ciência da Computação na PUCRS.
+  Meu nome é Luana, tenho 24 anos e sou formada em Ciência da Computação pela PUCRS.
   
-  Atualmente, sou desenvolvedora iOS no Apple Developer Academy - PUCRS. Tenho trabalhado em projetos utilizando SwiftUI e UIKit, além de explorar conceitos de User Experience (UX) e ferramentas como Figma. Nos últimos meses, tenho utilizado frameworks da Apple, como SpriteKit, AudioKit, Combine, CoreML, CoreMotion, entre muitos outros.
+  Atualmente, sou desenvolvedora iOS na Telus Digital. Tenho trabalhado em projetos utilizando SwiftUI e UIKit, além de explorar conceitos de User Experience (UX) e ferramentas como Figma. Nos últimos meses, tenho utilizado frameworks da Apple, como SpriteKit, AudioKit, Combine, CoreML, CoreMotion, entre muitos outros.
 
   Se quiser saber mais sobre mim, acesse https://luanatthomas.github.io 😄
 <!--
